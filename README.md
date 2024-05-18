@@ -7,3 +7,4 @@
 3. [Class methods & Static methods](./03-class-methods-and-static-methods/)
 4. [Inheritance](./04-inheritance/)
 5. [Special dunder/magic methods](./05-special-dunder-methods/)
+6. [Property decorator, getters & setter](./06-property-decorator/)
